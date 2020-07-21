@@ -11,5 +11,4 @@ This is BruteForce Tutorials for beginners. Now, what is meaning of BruteForce? 
 Follow instructions to my tutorials.
 Thank You!
 
-Facebook : https://facebook.com/n3o.d4rk3r
-YouTube  : https://www.youtube.com/channel/UCkRhxOQuJ9icq-Limvs5pEw
+Facebook : https://facebook.com/n3o.d4rk3r                                                                                                                                         YouTube  : https://www.youtube.com/channel/UCkRhxOQuJ9icq-Limvs5pEw
