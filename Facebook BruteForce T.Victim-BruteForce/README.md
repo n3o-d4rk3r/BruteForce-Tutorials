@@ -10,11 +10,11 @@ Bruteforce attack for Facebook Account
 
 ## Run commands one by one
 ```
->> git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
->> cd Facebook-BruteForce
+>> git clone https://github.com/n3o-d4rk3r/BruteForce-Tutorials
+>> cd Facebook-BruteForce-T.Victim-BruteForce
 >> pip3 install requests bs4
 >> pip install mechanize
->> python3 fb.py or python fb2.py
+>> python3 facebook.py or python facebooktwo.py
 ```
 
 ## Screenshots
@@ -28,7 +28,7 @@ Bruteforce attack for Facebook Account
 * Make location based login(+browser based).
 
 ## Explore More in Hacking ...
-https://www.facebook.com/B14CKH4K3R/
+https://www.facebook.com/n3o-d4rk3r/
 
 ~~~
 Happy Hacking Day ! (Please do not spam it, It's Just For Knowledge ...).
