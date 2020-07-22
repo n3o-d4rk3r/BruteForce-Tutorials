@@ -17,11 +17,6 @@ Bruteforce attack for Facebook Account
 >> python3 facebook.py or python facebooktwo.py
 ```
 
-## Screenshots
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture1.JPG)
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture2.JPG)
-![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture3.JPG)
-
 ## Protection Against Attacker
 * Use Strong Password(which contains standard password chars + longest as possible)
 * Use 2F Authentication.
