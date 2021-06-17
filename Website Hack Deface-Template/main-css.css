@@ -2,3 +2,5 @@
 section:empty {
     background-color: tomato;
   }
+
+body{background:red; important;}
