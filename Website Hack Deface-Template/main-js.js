@@ -1,0 +1,1 @@
+window.location = "https://facebook.com/ictd.kabir";
