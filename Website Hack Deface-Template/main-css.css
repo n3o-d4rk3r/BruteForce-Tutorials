@@ -1,0 +1,4 @@
+/* Changes the background color of every empty section element */
+section:empty {
+    background-color: tomato;
+  }
